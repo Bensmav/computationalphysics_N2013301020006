@@ -25,7 +25,7 @@ plt.ylabel('x(m)')
 plt.show()</code></pre>
 利用matplotlib画出图像：
 
-![Alt ](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/chapter1/matplotlib1.png)
+!(https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/chapter1/matplotlib1.png)
 ##4.结论
 用此方法得到的结果与实际完全一致（因为此函数为线性函数）。
 ##5.致谢
