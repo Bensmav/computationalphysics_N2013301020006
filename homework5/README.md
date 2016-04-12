@@ -26,13 +26,13 @@ mpl.ylabel('N')
 mpl.show()</code></pre>
 图像如下：
 
-![](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/homework5/population1.png)
+![Alt b=0](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/homework5/population1.png "b=0")
 
 令b=0.01或b=0.001可得如下结果
 
-![b=0.01](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/homework5/population2.png)
+![Alt b=0.01](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/homework5/population2.png "b=0.01")
 
-![b=0.001](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/homework5/population3.png)
+![Alt b=0.001](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/homework5/population3.png "b=0.001")
 ##4.结论
 用此方法得到的结果与实际完全一致（因为此函数为线性函数）。
 ##5.致谢
