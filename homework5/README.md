@@ -34,6 +34,6 @@ mpl.show()</code></pre>
 
 ![Alt b=0.001](https://github.com/Bensmav/computationalphysics_N2013301020006/blob/master/homework5/population3.png "b=0.001")
 ##4.结论
-可知当b=0时人口成指数增长，b不为0时，人口数量最终会有一个极限值。
+可知当b=0时人口成指数增长，b不为0时，人口数量最终会有一个极限值，b为0.01时，人口数量不变，小于0.01时人口会先增加后稳定，推测b大于0.01时人口会先减少后稳定。
 ##5.致谢
 感谢蔡浩老师关于U元素衰变的例子。
